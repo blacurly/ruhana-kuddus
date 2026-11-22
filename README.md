@@ -7,7 +7,7 @@
 ## 🌐 Live Deployment
 
 * **Backend API (Railway):** [https://paras-app-production.up.railway.app](https://paras-app-production.up.railway.app)
-* **API Documentation (Swagger UI):** [https://joyful-youthfulness-production-45055a8e.up.railway.app/docs](https://joyful-youthfulness-production-45055a8e.up.railway.app/docs)
+* **API Documentation:** [https://joyful-youthfulness-production-45055a8e.up.railway.app/docs](https://joyful-youthfulness-production-45055a8e.up.railway.app/docs)
 
 ---
 
